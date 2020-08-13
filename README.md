@@ -1,4 +1,4 @@
-🌎 [Community Builder](https://www.iadnug.org)
+🌎 [Community Builder](https://www.meetup.com/iadnug/)
 
 ✍ [Blogger](https://scottsauber.com)
 
