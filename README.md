@@ -4,6 +4,6 @@
 
 💬 [Speaker](https://scottsauber.com/speaking)
 
-🤓 [Independent Software Consultant](https://scottsauber.com/contact)
+🤓 [Software Consultant](https://leantechniques.com/)
 
 ➕ [and more](https://scottsauber.com/about)
