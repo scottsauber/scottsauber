@@ -6,4 +6,6 @@
 
 🤓 [Software Consultant](https://leantechniques.com/)
 
+📝 [Learning In Public](https://github.com/scottsauber/notes)
+
 ➕ [and more](https://scottsauber.com/about)
